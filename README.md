@@ -1,6 +1,6 @@
 # tadpo
 
-A few demonstrations of the working policy can be found at this [link](https://youtu.be/b-9ATFDdCnA)
+A few demonstrations of the working policy can be found at this [link](https://youtu.be/8LBr2VtuKSQ)
 
 ## Source Code
 
